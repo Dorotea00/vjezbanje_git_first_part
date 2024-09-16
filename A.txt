@@ -1,3 +1,2 @@
-ipak smo se predomislili  
-Ovo mijenjamo lokalno kroz visual studio code
-tekst 2
+ipak smo se predomislili
+Ovo mijenjamo lokalno kroz visual studio code nakon što smo ispravili konflikt 
